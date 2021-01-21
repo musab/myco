@@ -1,0 +1,23 @@
+{
+  "name": "myco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musab/myco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musab/myco/issues"
+  },
+  "homepage": "https://github.com/musab/myco#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
